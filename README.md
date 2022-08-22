@@ -1,3 +1,1 @@
 # Hyperblog
-
-# GIT
